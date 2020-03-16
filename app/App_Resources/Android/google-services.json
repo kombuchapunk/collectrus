@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207738622330",
+    "firebase_url": "https://collectrus-e4435.firebaseio.com",
+    "project_id": "collectrus-e4435",
+    "storage_bucket": "collectrus-e4435.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207738622330:android:629dc4d94640aaa72d06c3",
+        "android_client_info": {
+          "package_name": "app.collectrus.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207738622330-ojert63crdbm6r5fgvbpok9kmu4qir3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7f0kii-lSpPZhgQ50AbUxyWE-8Udrw08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207738622330-ojert63crdbm6r5fgvbpok9kmu4qir3j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "207738622330-tlj1fihrgl32r2nmp9lunrot8m7iq8nh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.collectrus.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
